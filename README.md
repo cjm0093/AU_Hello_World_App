@@ -1,3 +1,3 @@
-This a simple app that displays the text Hello World and includes a logo.
+This a simple app that displays the text Hello, AU and includes a logo.
 
 
